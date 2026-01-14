@@ -29,7 +29,12 @@ The dataset used in this project contains employee-level HR data, including:
 - DAX – Measures and calculated metrics
 - GitHub – Documentation and project hosting
 ## Dashboard Overview
-![](Home.png) || ![](Details.png) || ![](Action.png)
+![](Home.png)
+[Interact with the live Dashboard here](https://app.powerbi.com/groups/me/reports/79406820-00d0-4a3e-b848-4c5c49c88dc3/ReportSection?experience=power-bi)
+![](Details.png)
+[Interact with the live Dashboard here](https://app.powerbi.com/groups/me/reports/79406820-00d0-4a3e-b848-4c5c49c88dc3/ReportSection3011d8db0a27e00c8138?experience=power-bi)
+![](Action.png)
+[Interact with the live Dashboard here](https://app.powerbi.com/groups/me/reports/79406820-00d0-4a3e-b848-4c5c49c88dc3/ReportSection54e809550830c37d2989?experience=power-bi)
 The dashboard is organized into multiple sections to provide a comprehensive HR overview:
 ### Key Workforce KPIs
 - Total Employees: 1,470
